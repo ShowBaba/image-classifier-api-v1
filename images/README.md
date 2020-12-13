@@ -1,1 +1,1 @@
-### This is an empty folder to hold temporarily hold images on the server
+### This is an empty folder to temporarily hold images on the server
