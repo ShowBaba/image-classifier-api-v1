@@ -17,6 +17,7 @@
 - [x] morgan
 - [x] multer
 - [x] nodemon
+- [x] cors
 
 ---
 
