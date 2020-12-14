@@ -22,6 +22,7 @@
   "dependencies": {
     "@tensorflow-models/mobilenet": "^2.0.4",
     "@tensorflow/tfjs": "^2.7.0",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "get-image-data": "^5.0.0",
     "jimp": "^0.16.1",
