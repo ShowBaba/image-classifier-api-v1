@@ -6,6 +6,8 @@
 > The API use a MobileNet pre-trained model architecture to classify input images.
 
 ---
+## Tutorial
+I wrote about this project [here](https://heartbeat.fritz.ai/build-and-deploy-an-image-classification-api-with-nodejs-express-and-tensorflow-js-mobilenet-f1b31bedab29)
 
 ## **:package: Main tools used**
 
@@ -67,7 +69,6 @@ npm test
 - Submit a pull request
 
 ---
-
 
 ### **:anger: Troubleshootings**
 
